@@ -1,5 +1,5 @@
 const app = require('express')();
 
 app.get('/api', (req, res) => {
-  res.end('Hello World!');
+  res.json({ message: 'Hello from server!' });
 });
