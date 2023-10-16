@@ -1,0 +1,6 @@
+{
+  "name": "vercel-standalone-express-app",
+  "dependencies": {
+    "express": "^4"
+  }
+}
