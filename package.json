@@ -1,6 +1,7 @@
 {
   "name": "vercel-standalone-express-app",
   "dependencies": {
-    "express": "^4"
+    "express": "^4",
+    "uuid": "^9"
   }
 }
